@@ -1,0 +1,102 @@
+h1{
+	text-align: center;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 50px;
+}
+
+body{
+	background: linear-gradient(to bottom, #ff9966 5%, #000099 126%);
+	 background-size: 2000px 1000px;
+}
+
+.grid{
+	display:grid;
+	grid-template-columns: 330px 1fr 330px;
+}
+
+.grid2{
+	display:grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+}
+
+.grid3{
+	display:grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+}
+
+
+.navigation {
+    background-color: #D1C5E8;
+    overflow: hidden;
+}
+
+.navigation a {
+    float: left;
+    color: 
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+h2{
+	font-family: 'Amiri', serif;
+	color: #FFFFFF;
+}
+
+.class{
+	color: #FFFFFF;
+}
+
+p{
+	color: #FFFFFF;
+}
+
+p1{
+	color: #FFFFFF;
+	font-size: 29px;
+}
+
+p2{
+	font-size: 26px;
+	color: #FFFFFF;
+}
+
+p3{
+	font-size: 26px;
+	color: #FFFFFF;
+}
+
+p4{
+	font-size: 26px;
+	color: #FFFFFF; 
+}
+
+p5{
+	font-size: 25px;
+	color: #FFFFFF;
+}
+
+p6{
+	font-size: 25px;
+	color: #000000;
+}
+
+p7{
+	font-size: 25px;
+	color: #FFFFFF;
+}
+p8{
+	font-size: 25px;
+}
+
+p9{
+	color: #FFFFFF;
+	font-size: 25px;
+}
+
+p10{
+	font-size: 25px;
+}
